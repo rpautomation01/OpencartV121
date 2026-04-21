@@ -1,0 +1,18 @@
+2026-04-20 23:03:05 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-04-20 23:03:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-04-20 23:03:06 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-04-20 23:03:06 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-04-20 23:03:09 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2026-04-20 23:03:09 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2026-04-20 23:03:09 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-20 23:03:13 INFO  TC002_LoginTest:16 - ******* Starting TC_002_LginTect *******
+2026-04-20 23:03:15 INFO  TC002_LoginTest:42 - ******* Finished TC_002_LginTect *******
+2026-04-20 23:04:10 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-04-20 23:04:10 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-04-20 23:04:11 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-04-20 23:04:11 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-04-20 23:04:14 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..
+2026-04-20 23:04:14 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2026-04-20 23:04:14 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-04-20 23:04:18 INFO  TC002_LoginTest:16 - ******* Starting TC_002_LginTect *******
+2026-04-20 23:04:20 INFO  TC002_LoginTest:42 - ******* Finished TC_002_LginTect *******
